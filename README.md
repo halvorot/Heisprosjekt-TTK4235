@@ -1,4 +1,4 @@
-# Heisprosjekt-TTK4235
+# Heisprosjekt TTK4235 Tilpassede Datasystemer
 
 Files supplied by school: 
 * channels.h
