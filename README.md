@@ -1,5 +1,7 @@
 # Heisprosjekt TTK4235 Tilpassede Datasystemer
 
+See [Oppgavetekst](./Oppgavetekst.pdf) for a detailed problem description.
+
 Files supplied by school: 
 * channels.h
 * elev.c elev.h
